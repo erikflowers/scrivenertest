@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2013-11-27 23:11:11 -0700">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2013-11-27 23:16:43 -0700">
     <Binder>
         <BinderItem ID="12" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:11:11 -0700">
             <Title>Novel Format</Title>
@@ -30,7 +30,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="6" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:11:11 -0700">
+                        <BinderItem ID="6" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:15:24 -0700">
                             <Title>Scene</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
@@ -39,7 +39,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>13,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -279,7 +279,7 @@
                         <IconFileName>Characters (Character Sheet).tiff</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>32,0</TextSelection>
+                        <TextSelection>46,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="22" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:11:11 -0700">
@@ -300,6 +300,18 @@
             <MetaData>
                 <PageBreakBefore>Yes</PageBreakBefore>
             </MetaData>
+            <Children>
+                <BinderItem ID="44" Type="Text" Created="2013-11-27 23:15:56 -0700" Modified="2013-11-27 23:15:56 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -338,7 +350,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2013-11-27 23:11:09 -0700"></PreviousSession>
+        <PreviousSession Words="2" Characters="13" Date="2013-11-27 23:15:10 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>20</TemplateFolderID>
     <PrintSettings PaperSize="595.275574,841.861389" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
