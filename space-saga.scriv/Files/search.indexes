@@ -7,6 +7,30 @@
         <Document ID="18">
             <Title>Places</Title>
         </Document>
+        <Document ID="48">
+            <Title>Dempsey</Title>
+            <Text>Dempsey
+
+	Role in Story:	Secondary protagonist
+	Occupation:	Carrion
+ 	
+
+Physical Description:	Stout.
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
+        </Document>
         <Document ID="40">
             <Title>Paperback Novel</Title>
             <Text>MY GREAT NOVEL
@@ -425,7 +449,7 @@ Physical Description:
 	Notes:	</Text>
         </Document>
         <Document ID="4">
-            <Title>Chapter</Title>
+            <Title>Station Attack</Title>
         </Document>
         <Document ID="37">
             <Title>Copyright</Title>
@@ -471,7 +495,8 @@ ISBN-13:
 	Notes:	</Text>
         </Document>
         <Document ID="45">
-            <Title>Part 2</Title>
+            <Title>Adele Scouting</Title>
+            <Synopsis>Adele looking for a way off planet.</Synopsis>
             <Text>adsfasdfOpening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. 
 Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. 
 
@@ -497,7 +522,8 @@ Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! 
             <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
         </Document>
         <Document ID="6">
-            <Title>Scene</Title>
+            <Title>Dempsey Setup</Title>
+            <Synopsis>Dempsey preparing.</Synopsis>
             <Text>Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. 
 
 Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! We start with our hero on the bridge of his ship. 
@@ -507,6 +533,9 @@ Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! 
         <Document ID="30">
             <Title>Manuscript Format</Title>
         </Document>
+        <Document ID="46">
+            <Title>Escape</Title>
+        </Document>
         <Document ID="39">
             <Title>Sample Output</Title>
         </Document>
@@ -515,6 +544,10 @@ Opening Scene! We start with our hero on the bridge of his ship. Opening Scene! 
         </Document>
         <Document ID="17">
             <Title>Characters</Title>
+        </Document>
+        <Document ID="47">
+            <Title>Fancy Footwork</Title>
+            <Synopsis>They heroes get out of there</Synopsis>
         </Document>
     </Documents>
 </SearchIndexes>

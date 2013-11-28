@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2013-11-27 23:28:32 -0700">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2013-11-27 23:41:30 -0700">
     <Binder>
         <BinderItem ID="12" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:11:11 -0700">
             <Title>Novel Format</Title>
@@ -19,8 +19,8 @@
                 <PageBreakBefore>Yes</PageBreakBefore>
             </MetaData>
             <Children>
-                <BinderItem ID="4" Type="Folder" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:11:11 -0700">
-                    <Title>Chapter</Title>
+                <BinderItem ID="4" Type="Folder" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:36:58 -0700">
+                    <Title>Station Attack</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -30,8 +30,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="6" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:28:25 -0700">
-                            <Title>Scene</Title>
+                        <BinderItem ID="6" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:37:19 -0700">
+                            <Title>Dempsey Setup</Title>
                             <MetaData>
                                 <LabelID>4</LabelID>
                                 <StatusID>2</StatusID>
@@ -42,14 +42,36 @@
                                 <TextSelection>2019,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="45" Type="Text" Created="2013-11-27 23:17:15 -0700" Modified="2013-11-27 23:28:31 -0700">
-                            <Title>Part 2</Title>
+                        <BinderItem ID="45" Type="Text" Created="2013-11-27 23:17:15 -0700" Modified="2013-11-27 23:37:32 -0700">
+                            <Title>Adele Scouting</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>1315,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="46" Type="Folder" Created="2013-11-27 23:37:45 -0700" Modified="2013-11-27 23:37:49 -0700">
+                    <Title>Escape</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="47" Type="Text" Created="2013-11-27 23:37:54 -0700" Modified="2013-11-27 23:38:11 -0700">
+                            <Title>Fancy Footwork</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -67,6 +89,21 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <DefaultChildTemplateID>21</DefaultChildTemplateID>
+            <Children>
+                <BinderItem ID="48" Type="Text" Created="2013-11-27 23:40:00 -0700" Modified="2013-11-27 23:41:27 -0700">
+                    <Title>Dempsey</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>46,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
         <BinderItem ID="18" Type="Folder" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:11:11 -0700">
             <Title>Places</Title>
@@ -145,7 +182,7 @@
                                 <NotesTextSelection>55,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>81,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="36" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:11:11 -0700">
@@ -360,7 +397,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="652" Characters="3284" Date="2013-11-27 23:26:29 -0700"></PreviousSession>
+        <PreviousSession Words="652" Characters="3284" Date="2013-11-27 23:36:20 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>20</TemplateFolderID>
     <PrintSettings PaperSize="595.275574,841.861389" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
