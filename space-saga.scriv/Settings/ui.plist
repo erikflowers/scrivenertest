@@ -8,7 +8,7 @@
 	<true/>
 	<key>binderSelection</key>
 	<array>
-		<integer>3</integer>
+		<integer>4</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -79,7 +79,7 @@
 	<real>1.1892000436782837</real>
 	<key>mainDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>6</integer>
+		<integer>45</integer>
 	</array>
 	<key>mainDocumentEditor.corkboardVisible</key>
 	<false/>
@@ -115,7 +115,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>21</integer>
+		<integer>24</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -290,6 +290,30 @@
 				<key>BinderDocIDs</key>
 				<array>
 					<integer>6</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>12</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>6</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>45</integer>
 				</array>
 				<key>ViewMode</key>
 				<integer>0</integer>
