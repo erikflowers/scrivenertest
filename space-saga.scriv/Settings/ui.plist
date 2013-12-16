@@ -617,7 +617,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 24}, {859, 596}}</string>
+	<string>{{0, 23.999878}, {859, 596}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{1808, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>

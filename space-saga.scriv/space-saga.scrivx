@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2013-12-11 20:50:10 -0700">
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25239" Modified="2013-12-11 22:05:46 -0700">
     <Binder>
         <BinderItem ID="12" Type="Text" Created="2013-11-27 23:11:11 -0700" Modified="2013-11-27 23:11:11 -0700">
             <Title>Novel Format</Title>
@@ -407,7 +407,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="239" Characters="1371" Date="2013-12-11 20:32:30 -0700"></PreviousSession>
+        <PreviousSession Words="239" Characters="1371" Date="2013-12-11 22:05:40 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderID>20</TemplateFolderID>
     <PrintSettings PaperSize="595.275574,841.861389" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
